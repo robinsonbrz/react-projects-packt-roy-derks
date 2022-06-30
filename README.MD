@@ -1,5 +1,7 @@
-# Título do Projeto
-##  Breve descrição do projeto
+# Implementação de projetos do livro - React Projects - 2nd Ed
+##  Livro de autoria Roy Derks - Ed Packt
+
+Não é um fork dos projetos. Processo de digitação e entendimento dos conteúdos com ligeiras adaptações quando pertinente.
 
 <br>
   <div align="center">
@@ -7,7 +9,7 @@
       </tr>
             <td>
                 <a  href="https://www.linkedin.com/in/robinsonbrz/">
-                Idéia e deploy por Robinson Enedino
+                Implementação e pequenas alterações por Robinson Enedino
             </td>
         <td>
             <a  href="https://www.linkedin.com/in/robinsonbrz/">
@@ -30,14 +32,10 @@ Visite meu WebSite [https://www.enedino.com.br](https://www.enedino.com.br)
 
 ## Objetivo:
 
-Lista dos objetivos
+Colocar em prática aprendizado React
 
 
 
-# Próximas features 
-
-
-## Utilização do programa 
 
 <br>
 _______________________
